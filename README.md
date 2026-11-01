@@ -36,8 +36,10 @@ documents more easily.
    answer.
 7. The application presents the answer with available source and page
    references.
-Getting Started
-Prerequisites
+   
+**Getting Started**
+
+**Prerequisites**
 - Python installed
 - A Gemini API key
 - Git

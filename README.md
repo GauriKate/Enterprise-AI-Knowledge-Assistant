@@ -66,7 +66,8 @@ Note: Check the repository's actual entry-point filename and setup
 instructions before running the command above.
 
 My Contribution
--Worked on PDF text extraction and document processing, integrating the
+
+Worked on PDF text extraction and document processing, integrating the
 Gemini API, implementing semantic retrieval with the selected embedding
 and search components, and developing the question-answering workflow
 with source-aware responses.
